@@ -1,0 +1,8 @@
+$ python chat.py
+Connected to harness support_chatbot (session 0957313f-d81a-42b6-aec9-73e7870adc5b-support-chat).
+Type a message, or 'quit' to exit.
+
+you> Do you offer gift wrapping for orders?
+bot> I'm sorry, I don't have information about that. For inquiries about gift wrapping, please contact our human support at +1 (800) 555-0199, Monday to Friday, excluding holidays.
+
+you> quit

@@ -1,0 +1,8 @@
+$ python chat.py
+Connected to harness support_chatbot (session 0b5d1e33-a340-47b8-81c9-00ee1063c2fa-support-chat).
+Type a message, or 'quit' to exit.
+
+you> Can you help me plan a weekend trip to Rome?
+bot> This is outside what I can help with here. For assistance with travel plans, please contact a travel agent or visit a travel website. If you have questions about our shop's orders, shipping, returns, or payments, I'm here to help. You can also reach our human support team at +1 (800) 555-0199, Monday to Friday, excluding holidays.
+
+you> quit

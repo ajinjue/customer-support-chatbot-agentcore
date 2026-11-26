@@ -1,0 +1,22 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Generated at runtime (contain your AWS account ID / resource ARNs)
+/agentcore_config.json
+/eval-config.json
+/inference-config.json
+/output-config.json
+/eval_results/
+/output_eval_dataset.jsonl
+/eval_scores.md
+
+# Local packaging
+/submission/
+/submission.zip
+
+# OS
+.DS_Store
+Thumbs.db

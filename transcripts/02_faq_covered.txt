@@ -1,0 +1,10 @@
+$ python chat.py
+Connected to harness support_chatbot (session b3aae95f-9a4a-4068-ac0d-9ecea4a1ec60-support-chat).
+Type a message, or 'quit' to exit.
+
+you> How long does it take to get my refund after I return an item?
+bot> <thinking> The customer is asking about the duration of the refund process after returning an item, which falls under the "Returns & Refunds" section of the FAQ. The relevant FAQ entry is number 14. </thinking>
+
+Refunds are issued to the original payment method after we receive and inspect the return. This typically takes 3–10 business days, depending on your bank/provider.
+
+you> quit
